@@ -1,5 +1,4 @@
-[sibe_entry_checklist.html](https://github.com/user-attachments/files/31710725/sibe_entry_checklist.html)
-# kashfutures.github.io<!doctype html>
+
 <html lang="en">
 <head>
 <meta charset="utf-8">
